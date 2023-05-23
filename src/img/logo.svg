@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="134mm"
+   height="55mm"
+   viewBox="0 0 134 55"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.72515432"
+     inkscape:cx="314.41583"
+     inkscape:cy="341.30666"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <rect
+       x="164.103"
+       y="409.56799"
+       width="608.14642"
+       height="417.8421"
+       id="rect790" />
+  </defs>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <ellipse
+       style="fill:#ff7f2a;fill-opacity:1;stroke-width:0.280574"
+       id="path2712"
+       cx="67.5"
+       cy="27.182421"
+       rx="54.364864"
+       ry="19.885136" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-41.959459,-106.90541)"
+       id="text788"
+       style="font-size:133.333px;font-family:'Vladimir Script';-inkscape-font-specification:'Vladimir Script, Normal';white-space:pre;shape-inside:url(#rect790);fill:#b80000;fill-opacity:1"><tspan
+         x="164.10352"
+         y="527.53681"
+         id="tspan2886"><tspan
+           style="font-family:'Stylus BT';-inkscape-font-specification:'Stylus BT, Normal'"
+           id="tspan2884">Meeting</tspan></tspan></text>
+  </g>
+</svg>

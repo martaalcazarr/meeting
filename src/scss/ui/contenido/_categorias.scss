@@ -30,4 +30,10 @@
         font-weight: 700;
         text-align: center;
     }
+
+    &__imagen{
+        width: 100%;
+        height: 20rem;
+        object-fit: cover;
+    }
 }
